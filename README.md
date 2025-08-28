@@ -24,12 +24,12 @@ A desktop application to manage pharmacy inventory, billing, customers, and supp
  📷 Screenshots
 
  Login Form
-![Login Screen](screenshots/Screenshot-1.png)
+![Login Screen](Screenshot-1.png)
 
  Customer
-![Add Screen](screenshots/Screenshot-4.png)
+![Add Screen](Screenshot-4.png)
 
  Inventory Management
-![Inventory Screen](screenshots/Screenshot-6.png)
+![Inventory Screen](Screenshot-6.png)
 
 
