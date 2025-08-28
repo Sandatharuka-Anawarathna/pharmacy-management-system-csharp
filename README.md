@@ -22,6 +22,11 @@ A desktop application to manage pharmacy inventory, billing, customers, and supp
 5. Build & Run
 
 📷 Screenshots
-
+[Screen one](screenshots/screenshot-1.png)
+[Screen one](screenshots/screenshot-2.png)
+[Screen one](screenshots/screenshot-3.png)
+[Screen one](screenshots/screenshot-4.png)
+[Screen one](screenshots/screenshot-5.png)
+[Screen one](screenshots/screenshot-6.png)
 
 
