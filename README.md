@@ -21,12 +21,15 @@ A desktop application to manage pharmacy inventory, billing, customers, and supp
 4. Update connection string in `App.config`
 5. Build & Run
 
-📷 Screenshots
-![Screen one](screenshots/Screenshot-6.png)
-![Screen two](screenshots/Screenshot-2.png)
-![Screen three](screenshots/Screenshot-3.png)
-![Screen four](screenshots/Screenshot-4.png)
-![Screen five](screenshots/Screenshot-5.png)
-![Screen six](screenshots/Screenshot-6.png)
+ 📷 Screenshots
+
+ Login Form
+![Login Screen](screenshots/Screenshot-1.png)
+
+ Customer
+![Add Screen](screenshots/Screenshot-4.png)
+
+ Inventory Management
+![Inventory Screen](screenshots/Screenshot-6.png)
 
 
